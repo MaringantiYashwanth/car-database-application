@@ -1,0 +1,3 @@
+// HATEOS[hypermedia as the Engine of the Application State]
+	// Spring data rest returns JSON Data in Hypertext Application Language (HAL Format)
+	// HAL expresses hyperlinks in JSON and it makes RESTful web services easier to use for frontend devs
